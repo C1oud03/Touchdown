@@ -9,9 +9,14 @@ import SwiftUI
 
 @main
 struct TouchdownApp: App {
+    
+    // MARK: - PROPERTIES
+    
+    // MARK: - BODY
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
         }
-    }
+    } //: BODY
 }
